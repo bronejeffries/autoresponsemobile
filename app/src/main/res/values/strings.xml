@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ARS</string>
+    <string name="BASE_URL">https://arsbackend.herokuapp.com/api/</string>
+    <string name="focus_camera">Please focus the Camera on the Qrcode</string>
+    <string name="enter_comment">Enter Comment here...</string>
+    <string name="topic">Topic:</string>
+    <string name="continu">Continue</string>
+    <string name="qn_t_t">Qn:</string>
+</resources>
